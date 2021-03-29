@@ -1,0 +1,45 @@
+rice	wheat	milk	biscuits	cookies	noodles	cornflakes	nuts	almonds	dates	seeds
+almonds	cashews	nuts	noodles	biscuits	milk	wheat
+milk	wheat	rice	dates	berries	biscuits	cornflakes
+noodles	nuts	seeds	rice
+rice	cashews	wheat	noodles	nuts	berries
+berries	cashews	rice	wheat	dates
+dates	berries	wheat	cookies	cornflakes	almonds	
+berries	almonds	cashews	rice	noodles	wheat	rice
+seeds	wheat	berries	biscuits	nuts	noodles
+cashews	cornflakes	wheat	milk	biscuits
+biscuits	almonds	noodles	cornflakes
+cookies	rice	noodles	almonds
+noodles	nuts	seeds	rice	wheat	berries
+berries	almonds	seeds	rice	wheat
+rice	milk	cookies	cornflakes	almonds	seeds	berries	wheat
+wheat	biscuits	noodles	seeds	berries	cornflakes
+rice	wheat	milk	biscuits	cookies	noodles	cornflakes	nuts	almonds	dates	seeds
+berries	cashews	rice	wheat	dates	berries
+berries	cashews	cornflakes	wheat	dates	wheat
+milk	noodles	almonds	berries	biscuits	wheat
+noodles	seeds	cashews	wheat	biscuits	almonds
+berries	seeds	wheat	rice	biscuits	berries
+rice	almonds	noodles	cornflakes
+cookies	rice	berries	almonds	wheat
+rice	milk	biscuits	cookies	noodles	cornflakes	nuts	almonds	dates	seeds
+milk	wheat	rice	dates	berries	biscuits
+dates	wheat	cookies	cornflakes	almonds	
+biscuits	almonds	noodles	cornflakes
+berries	almonds	seeds	rice	wheat	cornflakes
+cookies	rice	berries	almonds
+almonds	cashews	nuts	noodles	biscuits	milk	wheat	cornflakes
+dates	berries	cookies	cornflakes	almonds	
+dates	berries	wheat	cookies	cornflakes	almonds	
+cookies	rice	berries	almonds	cornflakes
+almonds	cashews	nuts	noodles	biscuits	milk	wheat
+wheat	biscuits	noodles	seeds	berries	cornflakes
+biscuits	almonds	noodles	cornflakes
+cookies	rice	berries	almonds	cornflakes
+rice	cashews	wheat	noodles	nuts	berries
+biscuits	almonds	noodles	cornflakes
+rice	milk	biscuits	cookies	noodles	cornflakes	nuts	almonds	dates	seeds
+cookies	rice	noodles	almonds
+rice	milk	biscuits	cookies	noodles	cornflakes	nuts	almonds	dates	seeds
+berries	almonds	seeds	rice	wheat
+

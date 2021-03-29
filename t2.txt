@@ -1,0 +1,20 @@
+samsung	nokia	apple	oneplus	google	realme	xiaomi	oppo	vivo
+apple	realme	oppo	motorola	micromax	tecno	
+nokia	samsung	google	xiaomi	vivo
+realme	apple	oppo	motorola	oneplus	tecno	samsung	
+samsung	vivo	micromax	xiaomi	apple	oppo	realme	motorola
+apple	samsung	google
+google	xiaomi	tecno	micromax
+samsung	motorola	tecno	oppo	nokia	oneplus
+oneplus	oppo	vivo	tecno	apple	realme	motorola
+micromax	vivo	oppo	apple
+google	vivo	xiaomi	motorola
+xiaomi	oneplus	nokia
+samsung	xiaomi	apple	realme	tecno	google	oppo
+samsung	apple	vivo	motorola	tecno
+apple	samsung	micromax	motorola	oppo
+oppo	oneplus	apple	xiaomi	tecno	samsung
+samsung	vivo	apple	tecno	google	realme
+realme	apple	google	samsung	nokia	oneplus	oppo
+vivo	samsung	apple	google	oneplus	
+oneplus	samsung	apple	oppo	vivo	micromax	motorola	realme

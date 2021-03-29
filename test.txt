@@ -1,0 +1,20 @@
+milk	sugar	bread	toast	crisp	apple	banana	grapes	curd	cheese	butter	mango	curd
+milk	sugar	crisp	apple	banana	grapes	curd	cheese	butter	
+butter	bread	toast	crisp	curd	banana	grapes	salt
+pastry	cake	sugar	bread	toast	mango	curd	cheese	coffee	
+coffee	sugar	pineapple	toast	crisp	apple	banana	chicken	curd	cheese	butter	
+milk	sugar	bread	toast	crisp	apple	beef	grapes	curd	cheese	butter	
+milk	sugar	bread	beef	meat	apple	banana	grapes	curd	cheese	butter	
+milk	soda	bread	toast	crisp	pineapple	banana	grapes	curd	cheese	butter	
+oil	sugar	bread	soda	crisp	apple	banana	grapes	curd	cheese	butter	
+sugar	mango	toast	crisp	apple	banana	grapes	curd	cheese	butter	
+milk	sugar	pineapple	toast	crisp	soda	beef	grapes	curd	cheese	butter	
+meat	salt	bread	toast	crisp	chicken	banana	grapes	berry	cheese	butter	
+tea		sugar	bread	toast	crisp	apple	banana	grapes	curd	cheese	butter	
+milk	curd	flour	bread	toast	berry	apple	banana	grapes	curd	cheese	butter	
+milk	sugar	bread	toast	meat	apple	banana	chicken	curd	butter	
+milk	soda	pineapple	berry	crisp	apple	banana	grapes	curd	cheese	butter	
+oil	sugar	mango	curd	flour	crisp	apple	banana	grapes	curd	cheese	butter	
+milk	sugar	bread	toast	crisp	apple	banana	grapes	curd	cheese	chicken	
+beef	salt	bread	toast	crisp	apple	berry	grapes	curd	cheese	butter	
+sugar	bread	toast	crisp	apple	banana	berry	curd	cheese	mango	beef	

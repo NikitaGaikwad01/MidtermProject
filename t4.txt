@@ -1,0 +1,40 @@
+nike	adidas	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+adidas	lee	puma	wrangler	aamri	ajile	biba	code	nike
+and	lee	levis	rare	wrangler	adam	biba	code	nike	ajile	
+wrangler	aamri	ajile	biba	code	nike	adidas
+nike	lee	levis	only	puma	rare	aamri	adam	ajile	ample	biba	code
+code	adidas	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba
+nike	adidas	and	levis	puma	rare	wrangler	ajile	ample	biba	code
+adidas	lee	puma	wrangler	aamri	ajile	biba	code	nike
+adidas	lee	puma	levis	aamri	only	biba	code	nike
+wrangler	aamri	ajile	biba	code	nike	adidas
+lee	aamri	ajile	levis	code	nike	adidas
+wrangler	aamri	ajile	biba	code	nike	adidas	puma	and
+nike	adidas	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+wrangler	aamri	biba	code	nike	adidas	puma	and
+lee	aamri	ajile	levis	code	nike	adidas
+nike	lee	levis	only	puma	rare	aamri	adam	ajile	ample	biba	code
+aamri	ajile	levis	code	nike	adidaswrangler	aamri	biba	code	nike	adidas	puma	and
+lee	aamri	ajile	levis	code	nike	adidas	rare
+lee	aamri	ajile	levis	code	nike	adidas
+rare	aamri	ajile	levis	code	nike	adidas
+nike	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+and	lee	levis	rare	wrangler	adam	biba	code	nike	ajile	
+lee	aamri	ajile	rare	code	nike	adidas
+nike	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+wrangler	aamri	lee	biba	code	nike	adidas
+lee	puma	levis	aamri	only	biba	code	nike
+adidas	lee	puma	wrangler	aamri	ajile	biba	code	nike
+adidas	lee	puma	only	aamri	only	biba	code	nike
+only	lee	puma	levis	aamri	only	biba	code	nike	rare
+nike	lee	levis	only	puma	rare	aamri	adam	ajile	ample	biba
+nike	adidas	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+nike	and	lee	levis	only	puma	rare	aamri	adam	ajile	ample	biba	code
+nike	lee	levis	only	ample	rare	aamri	adam	ajile	ample	biba	code
+nike	adidas	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+adidas	lee	puma	wrangler	aamri	ajile	biba	code	nike
+and	lee	levis	rare	wrangler	adam	biba	code	nike	ajile
+nike	and	lee	levis	only	puma	rare	wrangler	aamri	adam	ajile	ample	biba	code
+	
+
+
